@@ -1,1 +1,0 @@
-SELECT order_line, sales, round(sales) from sales order by order_line;
